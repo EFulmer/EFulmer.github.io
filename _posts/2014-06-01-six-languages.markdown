@@ -5,7 +5,7 @@ title:	"Six Languages to Master"
 
 Back in the primordial mists of 2012, Michael O. Church wrote [an article on the six languages he thought every programmer should learn](http://michaelochurch.wordpress.com/2012/07/27/six-languages-to-master/): 
 
-* Python for its legibility and the ease which it lets you get stuff done in, 
+* Python for its legibility and the ease with which it lets you get stuff done in, 
 * C to get an understanding of how the actual *computer* involved in computer programming works, 
 * ML or Haskell to force the programmer to learn how to make strong design choices by way of the strict type systems, 
 * Clojure for being a Lisp with a focus on industry use and practicality,
