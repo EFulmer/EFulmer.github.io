@@ -183,7 +183,7 @@ func main() {
 	cmd.Stdout = &bufout
 	cmd.Stderr = &buferr
 	start := time.Now()
-	cmd.Run()
+	err = cmd.Run()
 
 	elapsed := time.Since(start)	
 	timeTaken := fmt.Sprintf("\nTime needed to run: %v\n", elapsed.String())
@@ -195,6 +195,13 @@ func main() {
 		errMsg := fmt.Sprintf("Network error encountered: %v\n", netStat.Error())
 		log.Print(errMsg)
 		logFile.WriteString(errMsg)
+	}
+
+	if err != nil {
+		errMsg := fmt.Sprintf("Error encountered in executing brew update: %v\n",
+			err.Error())
+		logFile.WriteString(errMsg)
+		log.Fatal(errMsg)
 	}
 
 	logFile.WriteString(start.String())
@@ -218,3 +225,5 @@ Here's a gist containing the full source for all four of the examples: https://g
 This was fun to write, and I learned a bit about Go and concurrency. I'm not sure if I'm entirely sold on Go, but I can see why people would use it. The fast compile times let you get something like an interactive REPL, it's a lot more lightweight and easy to read/write than Java, and it's apparently pretty fast. 
 
 Now back to finishing my music recommendation Flask app and writing an interpreter or compiler!
+
+*EDIT 08/03/2014* After adding this to my `crontab`, I was reminded that I need to provide the full path of the program to run. The code's been updated to reflect that, and print out any errors that might show up when executing the actual command.
