@@ -1,3 +1,8 @@
+---
+layout: post
+title:	"Six Languages to Master"
+---
+
 What I Want to Do In 2016
 =========================
 
