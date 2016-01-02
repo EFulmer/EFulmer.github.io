@@ -1,10 +1,7 @@
 ---
 layout: post
-title:	"Six Languages to Master"
+title:	"What I Want to Do In 2016"
 ---
-
-What I Want to Do In 2016
-=========================
 
 2015 just ended, and while I'm not big on resolutions, I think that I could do with some more self-analysis. To that end, I'm going to list out some things I'd like to do in 2016. 
 
