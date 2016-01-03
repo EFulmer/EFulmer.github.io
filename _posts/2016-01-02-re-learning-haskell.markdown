@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	"(Re-)Learning Hskell"
+title:	"(Re-)Learning Haskell"
 ---
 
 I've been really interested in functional programming for a while, since I first started learning Haskell. I'm not completely sure where I first heard about it. I think it was in 2012, in a Reddit thread on resume and career advice - someone mentioned Haskell being this super-esoteric language. I looked it up, thought "wow, it looks really hard, so it's definitely worth learning," and ordered *Learn You a Haskell for Great Good!*. 
