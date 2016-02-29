@@ -30,11 +30,11 @@ These exist to solve common problems (like web development, data analysis, or da
 
 For languages I use, here's a few examples:
 
-Python has [Django](https://www.djangoproject.com/) and [Flask](http://flask.pocoo.org/) for web application development, [SQLAlchemy](http://www.sqlalchemy.org/) for database interop, and [Pandas](http://pandas.pydata.org/) for data analysis. 
+* Python has [Django](https://www.djangoproject.com/) and [Flask](http://flask.pocoo.org/) for web application development, [SQLAlchemy](http://www.sqlalchemy.org/) for database interop, and [Pandas](http://pandas.pydata.org/) for data analysis. 
 
-[Ruby](https://www.ruby-lang.org/en/) has [Rails](http://rubyonrails.org/) for web application development.
+* [Ruby](https://www.ruby-lang.org/en/) has [Rails](http://rubyonrails.org/) for web application development.
 
-[Haskell](https://www.haskell.org/) has [Lens](https://github.com/ekmett/lens) for complex data structures, and [Yesod](http://www.yesodweb.com/) for web application development.
+* [Haskell](https://www.haskell.org/) has [Lens](https://github.com/ekmett/lens) for complex data structures, and [Yesod](http://www.yesodweb.com/) for web application development.
 
 ### Write stuff in it. 
 
