@@ -30,13 +30,21 @@ These exist to solve common problems (like web development, data analysis, or da
 
 For languages I use, here's a few examples:
 
-Python has [Django](https://www.djangoproject.com/) and [Flask](http://flask.pocoo.org/) for web application development, [SQLAlchemy](http://www.sqlalchemy.org/) for database interop, and [Pandas](http://pandas.pydata.org/) for data analysis. [Ruby](https://www.ruby-lang.org/en/) has [Rails](http://rubyonrails.org/) for web application development, [Haskell](https://www.haskell.org/) has [Lens](https://github.com/ekmett/lens) for complex data structures, and [Yesod](http://www.yesodweb.com/) for web application development.
+Python has [Django](https://www.djangoproject.com/) and [Flask](http://flask.pocoo.org/) for web application development, [SQLAlchemy](http://www.sqlalchemy.org/) for database interop, and [Pandas](http://pandas.pydata.org/) for data analysis. 
+
+[Ruby](https://www.ruby-lang.org/en/) has [Rails](http://rubyonrails.org/) for web application development.
+
+[Haskell](https://www.haskell.org/) has [Lens](https://github.com/ekmett/lens) for complex data structures, and [Yesod](http://www.yesodweb.com/) for web application development.
 
 ### Write stuff in it. 
 
-Progress from really small things that you may find useful (what's the largest file in this folder? How can I re-organize my photos?) to applications and libraries of more significant size. Depending on who you are, "significant size" may be 500 lines of code, or 15,000. Use some of those major libraries and frameworks in your code. At this point, focus on getting things done; a few short tutorials are useful, but don't get obsessed with finding the optimal library, or memorizing its minutiae. 
+Progress from really small things that you may find useful (what's the largest file in this folder? How can I re-organize my photos?) to applications and libraries of more significant size. 
 
-Key at this step is *focusing on getting stuff done over writing beautiful code.* Accept the fact that you will write bad code. I'm currently writing a Fire Emblem clone in Haskell, and much of my code is inelegant and ugly. I can always rewrite it in more concise, readable, and modular style later, and learn from the rewriting process.  I'd rather my first go be perfect, but that's unrealistic. You have to be bad at something before you can get good at it.
+Depending on your comfort level and prior experience, "significant size" may be 500 lines of code, or 15,000. Use some of those major libraries and frameworks in your code. At this point, focus on getting things done; a few short tutorials are useful, but don't get obsessed with finding the optimal library, or memorizing its minutiae. 
+
+Key at this step is **focusing on getting stuff done over writing beautiful code.** Accept the fact that you will write code that's "bad" in some way, whether it's inefficient, hard to read, or unaware of the language's best practices. The perfect is the enemy of the good here.
+
+I'm currently writing a Fire Emblem clone in Haskell, and much of my code is inelegant and ugly. I can always rewrite it in more concise, readable, and modular style later, and learn from the rewriting process.  I'd rather my first go be perfect, but that's unrealistic. You have to be bad at something before you can get good at it.
 
 ### Ask questions!!!
 
@@ -45,3 +53,5 @@ Most people are pretty friendly and like to share their knowledge. One of the be
 Here's an example from me: one time I was building a tiny web app, and hit a problem that absolutely stonewalled me. I posted a question on Stack Overflow, which you can see [here](http://stackoverflow.com/questions/24566538/flask-rendering-unicode-characters-in-template), and someone answered within half an hour -- on Friday night!
 
 User groups and meetups are a great resource; their express purpose is to provide a way for users and enthusiasts to connect and share knowledge. If you're in a reasonably sized city, you can probably find a meetup group for most mainstream technologies. It may be harder to find an OCaml users group in say, Omaha, but there's certainly [Python](http://www.omahapython.org/blog/) and [Ruby](http://www.meetup.com/Omaha-Ruby-Meetup/) meetup groups.
+
+Now get out there and code!
