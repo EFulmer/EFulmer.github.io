@@ -3,9 +3,6 @@ layout: post
 title:	"How to Learn to Code"
 ---
 
-How to Learn to Code
-====================
-
 I've had a few of my friends ask me for help with learning to program. I love it when people ask me about what I do, but there are a few common patterns I've noticed with people. I'm writing this down as some informal notes about the stumbling blocks I've seen my friends hit.
 
 Just pick a language and code.

@@ -3,9 +3,6 @@ layout: post
 title:	"Caffeine"
 ---
 
-Caffeine
-====================
-
 We like coffee. Not just software engineers, or even the larger class of technology professionals, but humanity as a whole likes coffee. We like caffeine so much that we've invented all sorts of increasingly ridiculous energy drinks to get it into our system.
 
 I am no exception to this. I'm usually a pretty heavy coffee drinker. There have been points, either when I'm exceptionally busy or exceptionally stressed out, where I've probably consumed around a gallon of coffee daily. Make a pot in the morning to fill my thermos with, have some at the Keuring machine every hour-ish, afternoon coffee break with a few colleagues, make another pot when I get in, and fall asleep drinking it while watching TV. It was pretty ridiculous.
