@@ -1,3 +1,11 @@
 name: Eric Fulmer
+description: Thoughts on life and coding.
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
 markdown: kramdown
 pygments: true
+
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
