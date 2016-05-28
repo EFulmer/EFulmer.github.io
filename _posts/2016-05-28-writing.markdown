@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: "Writing"
 ---
 
@@ -31,7 +31,7 @@ Most of what I write down falls into these categories:
 
 Write things out with pen and paper, whenever possible. I use pencil, but that's because I'm weird. And because I have a math degree; erasing things is much cleaner and more pleasant than handing in an assignment with a bunch of crossed out and revised answers on it. Eventually I moved on to LaTeX, but that's because I'm extremely weird. 
 
-I'm deliberately ignoring the "how do you write" question because that's about your own personal style. [Just write.](http://efulmer.github.io/2016/02/28/how-to-learn-to-code/).
+I'm deliberately ignoring the "how do you write" question because that's about your own personal style. [Just write.](http://efulmer.github.io/2016/02/28/how-to-learn-to-code/)
 
 There are two reasons I suggest writing on pen and paper rather than digitally. The first is that it's harder to revise something you write out by hand. This forces you to think about the sentence you want to write before you actually put pen to paper. The second is linked to the first: handwriting requires much more focus than typing. It's very easy for me to type something lightning fast, without even looking at the keyboard, with a gramatically correct result. This is much harder to do when writing out things by hand. The goal here is to understand things and increase your knowledge. **Thinking** is vital for this.
 
