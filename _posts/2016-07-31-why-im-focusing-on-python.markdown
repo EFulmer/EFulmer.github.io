@@ -21,7 +21,7 @@ Language reasons
 
 **The language is very expressive.** Python has features like list comprehensions that allow you to express complicated ideas simply. Generators are another neat feature which I honestly don't yet truly understand the power of. I feel that Python hits a wonderful middle ground between being overly verbose (so you know exactly what the code does, but you have to read a lot more of it) and being overly flexible to the point that there are so many corner cases you're not sure what it does.
 
-**The standard library is fantastic.** There's tons of great packages that come with Python. [https://docs.python.org/3.5/library/collections.html](`collections`) offers custom subclasses of the built-in collections for some more specialized, but pretty common, use cases. Need to count how many times something shows up in a list/string/query result? `Counter` will do that for you! If you need a dictionary that can automatically generate default values for new keys, then `defaultdict` will be a big help. [https://docs.python.org/3.5/library/argparse.html](`argparse`)
+**The standard library is fantastic.** There's tons of great packages that come with Python. [`collections`](https://docs.python.org/3.5/library/collections.html) offers custom subclasses of the built-in collections for some more specialized, but pretty common, use cases. Need to count how many times something shows up in a list/string/query result? `Counter` will do that for you! If you need a dictionary that can automatically generate default values for new keys, then `defaultdict` will be a big help. [`argparse`](https://docs.python.org/3.5/library/argparse.html) is a really cool module for building command-line utilities. [`webbrowser`](https://docs.python.org/3.5/library/webbrowser.html) can open up a browser for users. And there's plenty more standard library modules which are either a little esoteric but very interesting looking, like [`dis`](https://docs.python.org/3/library/dis.html), or really practical looking but I haven't had the chance to study them in-depth yet, like [`functools`](https://docs.python.org/3/library/functools.html) and [`itertools`](https://docs.python.org/3/library/itertools.html).
 
 Community reasons
 -----------------
@@ -30,9 +30,9 @@ Community reasons
 
 **Friendly community.** At least in New York City, there is a very large and friendly community of Python users. 
 
-The [http://www.meetup.com/learn-python-nyc/](Learn Python NYC) has three informal events every week where anyone can come in, work on something, or ask questions. It's a very welcoming community, and I've learned a lot just by going regularly and listening to people talk about their own work or just different parts of Python or the big libraries like Flask and Numpy. 
+The [Learn Python NYC](http://www.meetup.com/learn-python-nyc/) Meetup has three informal events every week where anyone can come in, work on something, or ask questions. It's a very welcoming community, and I've learned a lot just by going regularly and listening to people talk about their own work or just different parts of Python or the big libraries like Flask and Numpy. 
 
-Since Python's becoming one of the most popular programming languages worldwide, I'm sure that the Python community is strong in most other cities out there. And if there isn't one in your city, my understanding is that [https://www.python.org/psf/](the PSF) offers grants and resources to promote Python all around the world.
+Since Python's becoming one of the most popular programming languages worldwide, I'm sure that the Python community is strong in most other cities out there. And if there isn't one in your city, my understanding is that [the PSF](https://www.python.org/psf/) offers grants and resources to promote Python all around the world.
 
 
 I'm really excited to be focusing on Python! One part of this Python focus is going to be moving my personal GitHub pages blog from Jekyll to Pelican. I'm also learning Numpy and Pandas. It's a cool road to be travelling down.
