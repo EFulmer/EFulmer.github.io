@@ -3,9 +3,6 @@ layout: post
 title:	"Why I'm Focusing on Python"
 ---
 
-Why I'm Focusing on Python
-==========================
-
 For the past four years, I've been a programming language dilettante. 
 
 I would learn the basics of Haskell through a couple of tutorials and books, then read a blog post about Scala. I'd decide that no, Scala is definitely going to be the next big thing, enough with Haskell, and start learning Scala. After that I'd read an article praising Clojure and decide that Clojure was the language I was *really* going to master. Next I'd see some Reddit post about how Clojure isn't a true Lisp and that we should all be using Scheme instead, so I'd start on Scheme. Then I would hear that Go is going to be huge, so I'd learn Go.
