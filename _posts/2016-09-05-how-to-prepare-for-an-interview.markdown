@@ -1,0 +1,24 @@
+---
+layout: post
+title: "How to Prepare for an Interview"
+---
+
+I do not like interviewing. It's artificial, often has nothing to do with what you will be doing on the job, and if you get someone who's having an awful day or just decides they hate you right as they walk in the room, you've thrown away your time for nothing. 
+
+Once I was interviewing with a tech startup in Manhattan, about 2 years into the workforce. When the hiring manager stepped into the room, he jumped into his first question. It was "implement the Internet from the ground up." I said something like "what do I have to use? Am I doing this from the hardware level, do I have Unix system calls available, what are the tools available to me?" He growled, and I mean literally grunted like he thought he was an action star rather than a software engineer, "stop wasting time. Answer the question." This was for a back-end engineering position requesting 2-5 years of experience. 
+
+I stepped out of that interview feeling like an idiot. I felt totally incompetent. I started to consider giving up on my software engineering career. Thankfully, I didn't, and I started putting more thought and preparation into my interviews. While you can't make the nightmare interviewer like you, you can learn how to impress every other interviewer. 
+
+Here's the rules I use to prepare for interviews:
+
+* **Write out notes on topics you expect to be asked about.** This means both technical and personal questions. Anything on your resume and LinkedIn is fair game for an interviewer to ask about. I write out questions I expect to be asked about my former jobs, about my relevant volunteering and speaking experience, and about any languages or databases I say I know. Then I write out my answers. I have two sets of interview notes, one for Python questions, one for personality and background questions, written up in LaTeX and kept in version control. I started doing this around the start of 2016, and the majority of the effort was creating it. Updating it isn't so time consuming.
+* **Make special note of anything you get mixed up on easily, or is otherwise challenging to you.** For example, I often confuse simple web terminology like GET and POST requests, GET parameters, and so on. An issue like that isn't a big deal to someone who's amassed a lot of domain specific knowledge already. Incorporate it into your notes, or make an Anki flash card deck with things like that in it. 
+* **Rehearse your written answers aloud.** This is just as important as actually taking the notes. I have never tried referencing my written notes in an interview, even a phone one, but I can't imagine it would go over well. The repetition helps you remember your answers, and tells you how they sound when you're speaking with another person. 
+* **Have some questions prepared for your interviewers.** They don't have to be numerous (I have two) but you want to make it feel like a conversation between your potential future colleague and yourself. If you sit down and think for five minutes you'll have a lot of questions to ask. One I've used at younger, more casual tech companies is this: "My last job was pretty far away from me, so I've gotten info the habit of leaving very early for work and being the first one in the office. Would that be seen as weird here? What's the typical arrival time for people like at this place?"
+
+
+When I'm in the interview I have a few other rules I follow that I find helpful:
+
+* **Speak slowly when talking about technical stuff.** It's just polite. Terminology can differ a little bit, so you want to make sure the other person understands you. Maybe they're used to using the phrase "order N" to describe algorithmic complexity when you use "oh of N," and they've never heard "oh of N" before. Besides, speaking slowly and clearly is a sign of confidence: you know what you're talking about and you're giving the other person a chance to jump in if they want to ask a follow-up or have a question on what you're saying. 
+* **Let your personality show.** You need to be polite and professional, of course, but don't come off as an blank robot. A while back, I was interviewing intern candidates. I had two who listed Python but flubbed one of my questions on reference equality (which I found fair, because these were second semester students). The one who was more talkative was the guy I passed -- my reasoning being that they'd be more likely to ask questions when he didn't understand something rather than sit meekly and leave work unfinished, which I've seen happen.
+* **Realize some interviewers are a lost cause, and move on.** At some point you'll get an interviewer who decided they're going to fail you ahead of time. having a bad day, or just doesn't like you for whatever reason. Don't sweat it. If they're really unpleasant, just politely tell the recruiter/other contact that you've decided the company isn't a good fit after the interview.
